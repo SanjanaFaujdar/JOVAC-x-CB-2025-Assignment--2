@@ -1,1 +1,1 @@
-# JOVAC-x-CB-2025-Assignment--2
+This repository provides a comparative report on three major JavaScript engines: V8, Chakra, and SpiderMonkey. Each engine is discussed in terms of its architecture, features, and applications, highlighting how they power modern web and server-side applications.# JOVAC-x-CB-2025-Assignment--2
